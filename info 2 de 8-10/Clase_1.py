@@ -22,3 +22,4 @@ x1 = pacientes()
 x1.nombre = "pedro pablo"
 print(type(x))
 print(type(w))
+print("hola mundo")

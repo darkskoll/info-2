@@ -30,3 +30,4 @@ print(k[1])
 
 q = int(input("llama 1.si o 0.no "))
 k[1].funcion(q)
+print("hola mundo")
