@@ -5,3 +5,4 @@ class Mascotas:
         self.__Nombre: str = ""
         self.__Num_historia: int
         self.__tipo: str = ""
+        H = 0

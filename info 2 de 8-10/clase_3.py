@@ -73,4 +73,4 @@ g.asignar_Edad = "doce"
 g.asignar_ID= 123
 g.asignar_Raza= "Criollo"
 print(g.nombre)
-print("hola mundo")
+print("hola nundo")

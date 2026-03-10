@@ -2,4 +2,4 @@
 def hola(x:str):
     print(f"Saludo: {x}")
 hola(input("Ingrese saludos:"))
-print("hola mundo")
+print("hola Nundo")

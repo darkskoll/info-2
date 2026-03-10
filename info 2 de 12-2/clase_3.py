@@ -45,4 +45,4 @@ class Persona (homosapiens, paciente):
     def __init__(self) -> None :
         homosapiens.__init__()
         paciente.__init__(self)
-print("hola mundo")
+print("hola Nundo")

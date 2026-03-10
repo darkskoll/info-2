@@ -23,3 +23,4 @@ x1.nombre = "pedro pablo"
 print(type(x))
 print(type(w))
 print("hola mundo")
+h=12
