@@ -22,3 +22,9 @@ class Pacientes():
         self.__Genero = g
     def asignarServicio(self,s):
         self.__Servicio = s
+
+class Sistema:
+    def __init__(self):
+        self.__lista_pacientes = []
+        
+        self.__numero_
